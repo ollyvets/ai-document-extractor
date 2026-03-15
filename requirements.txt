@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+anthropic
+pymupdf
+pandas
+openpyxl
+streamlit
+python-multipart
+python-dotenv
