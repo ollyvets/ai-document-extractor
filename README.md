@@ -47,4 +47,4 @@ This project is a baseline for what AI-driven automation can do. I can customize
  - Medical Record Digitization.
  - Large-scale Legal Document Analysis.
 
-Need a custom AI solution for your business? [Drop me a message on Upwork] or [Open an Issue] — I'm always happy to chat about interesting challenges!
+Need a custom AI solution for your business? [Drop me a message on Upwork] or [Open an Issue] — I'm always happy to chat about interesting challenges! https://www.upwork.com/freelancers/~010745b4d221a00300
